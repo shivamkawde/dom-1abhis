@@ -1,0 +1,27 @@
+.container{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-wrap: wrap;
+}
+.divcls{
+    height: 70%;
+    width: 20%;
+    border: 1px solid;
+    margin-left: 2rem;
+}
+p{
+    display: inline;
+}
+.info{
+    
+    left: 45px;
+    top: 18rem
+}
+.javascript{
+    
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 2rem;
+}
+
